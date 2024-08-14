@@ -239,6 +239,7 @@
 
 ## computer-vision 
 
+- [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -426,6 +427,7 @@
 
 ## image-processing 
 
+- [pa7/nude.js](https://github.com/pa7/nude.js) - Nudity detection with JavaScript and HTMLCanvas
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [505e06b2/Image-to-Braille](https://github.com/505e06b2/Image-to-Braille) - Give it an image, and it will become unicode braille
@@ -437,6 +439,7 @@
 
 ## java 
 
+- [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [javpower/JavaVision](https://github.com/javpower/JavaVision) - JavaVision是一个基于Java开发的全能视觉智能识别项目。该项目起源于对图像处理和人工智能领域的热情，以及对Java作为主要编程语言的坚持。在AI领域，大多数解决方案都是使用Python实现的，因此决定充分利用Java的优势来构建一个功能强大且易于集成的视觉智能识别平台。
 - [siam1026/siam-server](https://github.com/siam1026/siam-server) - 暹罗点餐是一款Java餐饮点餐系统，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。该系统包含用户端、商家端、配送端以及总管理后台，美食下单、外卖配送、连锁餐饮和扫码点餐等核心功能，同时提供积分商城、会员中心和邀请好友注册返现等增值服务，以拓展客源。基于 Spring Boot + MyBatis Plus + Vue & Element + uni-app 技术栈进行开发；
 - [RoaringBitmap/RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others
@@ -458,6 +461,8 @@
 
 ## javascript 
 
+- [pa7/nude.js](https://github.com/pa7/nude.js) - Nudity detection with JavaScript and HTMLCanvas
+- [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet) - Lightweight nudity detection
 - [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 - [fanchaoo/netease-cloud-music-community](https://github.com/fanchaoo/netease-cloud-music-community) - 参照网易云音乐云村做的一个小程序社区，后端技术栈为Java，SpringBoot，MySQL，Redis，前端技术栈为uni-app。欢迎吐槽。
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -532,6 +537,7 @@
 
 ## maven 
 
+- [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [skarware/spring-boot-blog-app](https://github.com/skarware/spring-boot-blog-app) - Blogging platform build with Java 8, Spring Boot v2.2.6, Spring Web, Spring Data JPA, Spring Security, H2-in-memory-database, Lombok, Thymeleaf and Maven.
 
 ## mongodb 
@@ -581,6 +587,7 @@
 
 ## opencv 
 
+- [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
 ## others 
