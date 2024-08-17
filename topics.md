@@ -108,6 +108,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [sketch](#sketch)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
 - [springboot](#springboot)
@@ -249,6 +250,7 @@
 
 ## computer-vision 
 
+- [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [binhnguyennus/football-tracking](https://github.com/binhnguyennus/football-tracking) - Oblique-View into Top-Down View for Sports Analytics
 - [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -295,6 +297,7 @@
 
 ## deep-learning 
 
+- [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -618,7 +621,12 @@
 
 ## others 
 
-- [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
+- [roiiiu/nonebot-plugin-csgo-case-simulator](https://github.com/roiiiu/nonebot-plugin-csgo-case-simulator) - nonebot的CS2/CSGO开箱模拟器
+- [MarleneJiang/Login_Register_Demo](https://github.com/MarleneJiang/Login_Register_Demo) - 采用vue3+vite2+vue-router4+tailwindcss+二次元+Glassmorphism
+- [bydmm/yuanlimm](https://github.com/bydmm/yuanlimm) - 援力满满 - 二次元虚拟人物交易交易所
+- [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+- [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
 - [Forairaaaaa/Regina](https://github.com/Forairaaaaa/Regina) - 年轻人的第一台BB机 (｡・`ω´･)
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
@@ -763,6 +771,7 @@
 
 ## pytorch 
 
+- [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit) - 🩹Editing large language models within 10 seconds⚡
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -817,6 +826,10 @@
 ## shell 
 
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## sketch 
+
+- [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 
 ## spring 
 
