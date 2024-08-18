@@ -63,6 +63,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [java](#java)
@@ -179,6 +180,7 @@
 
 ## awesome 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
@@ -283,6 +285,7 @@
 
 ## data-science 
 
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -297,6 +300,7 @@
 
 ## deep-learning 
 
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -446,6 +450,10 @@
 - [LiangXiaoWei1024/net-penetrate-http-and-https-simple](https://github.com/LiangXiaoWei1024/net-penetrate-http-and-https-simple) - 内网穿透、GUI、一键启动、不限速，内置日志
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
+## https 
+
+- [LiangXiaoWei1024/net-penetrate-http-and-https-simple](https://github.com/LiangXiaoWei1024/net-penetrate-http-and-https-simple) - 内网穿透、GUI、一键启动、不限速，内置日志
+
 ## image-processing 
 
 - [pa7/nude.js](https://github.com/pa7/nude.js) - Nudity detection with JavaScript and HTMLCanvas
@@ -538,6 +546,8 @@
 
 ## machine-learning 
 
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [binhnguyennus/football-tracking](https://github.com/binhnguyennus/football-tracking) - Oblique-View into Top-Down View for Sports Analytics
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - World's Best AI Aimbot - CS2, Valorant, Fortnite, APEX, every game
@@ -547,6 +557,7 @@
 
 ## macos 
 
+- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for MacOS and Windows platforms.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Predidit/oneAnime](https://github.com/Predidit/oneAnime) - 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
@@ -621,7 +632,7 @@
 
 ## others 
 
-- [roiiiu/nonebot-plugin-csgo-case-simulator](https://github.com/roiiiu/nonebot-plugin-csgo-case-simulator) - nonebot的CS2/CSGO开箱模拟器
+- [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 - [MarleneJiang/Login_Register_Demo](https://github.com/MarleneJiang/Login_Register_Demo) - 采用vue3+vite2+vue-router4+tailwindcss+二次元+Glassmorphism
 - [bydmm/yuanlimm](https://github.com/bydmm/yuanlimm) - 援力满满 - 二次元虚拟人物交易交易所
 - [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
@@ -700,7 +711,7 @@
 - [MattMcFarland/battlefield-stats](https://github.com/MattMcFarland/battlefield-stats) - A node api for collection and analysis of battlefield 1 and battlefield 4 statistics.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
-- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
 - [spirthack/CSGOSimple](https://github.com/spirthack/CSGOSimple) - A simple base for CS:GO internal hacks
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
@@ -750,6 +761,10 @@
 
 ## python 
 
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [py2exe/py2exe](https://github.com/py2exe/py2exe) - Create standalone Windows programs from Python code
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [wujunwei928/parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 - [binhnguyennus/football-tracking](https://github.com/binhnguyennus/football-tracking) - Oblique-View into Top-Down View for Sports Analytics
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -771,6 +786,7 @@
 
 ## pytorch 
 
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit) - 🩹Editing large language models within 10 seconds⚡
@@ -788,6 +804,7 @@
 
 ## react 
 
+- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for MacOS and Windows platforms.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
@@ -803,7 +820,7 @@
 
 ## rust 
 
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for MacOS and Windows platforms.
 - [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) - 一个简单的游戏存档管理器
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
@@ -868,6 +885,7 @@
 
 ## tensorflow 
 
+- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 
 ## terminal 
@@ -882,6 +900,7 @@
 
 ## typescript 
 
+- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for MacOS and Windows platforms.
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
@@ -934,6 +953,7 @@
 
 ## windows 
 
+- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for MacOS and Windows platforms.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Predidit/oneAnime](https://github.com/Predidit/oneAnime) - 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
