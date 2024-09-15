@@ -161,6 +161,9 @@
 
 ## JavaScript 
 
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
+- [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [ondras/primitive.js](https://github.com/ondras/primitive.js) - JS port of primitive.lol
@@ -215,6 +218,7 @@
 
 ## Others 
 
+- [z-mahmud22/Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x) - Dlib compiled binary (.whl) for Python 3.7-3.12 and Windows x64
 - [54Coconi/CocoPyRPA-QT](https://github.com/54Coconi/CocoPyRPA-QT) - 基于PyQt5开发的CocoPyRPA的GUI版本
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
@@ -244,6 +248,8 @@
 
 ## Python 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [SHAHFAISAL80/Player-detection-and-ball-detection](https://github.com/SHAHFAISAL80/Player-detection-and-ball-detection) - 
 - [jac99/FootAndBall](https://github.com/jac99/FootAndBall) - FootAndBall: Integrated player and ball detector
 - [RimoChan/not_translator](https://github.com/RimoChan/not_translator) - 【not translator】不会翻译机！
@@ -331,10 +337,12 @@
 
 ## TypeScript 
 
+- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 现代化的基于 NTQQ 的 Bot 协议端实现
+- [chenxch/xlegex](https://github.com/chenxch/xlegex) - Match 3 type game template. 简化版羊了个羊游戏模板
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [qier222/stay-vibrant](https://github.com/qier222/stay-vibrant) - enjoy electronic music and stay vibrant ↑%
-- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, Macos and Linux.
+- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, MacOS and Linux(x11).
 - [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [VidBingeApp/VidBinge](https://github.com/VidBingeApp/VidBinge) - A web app for watching movies and shows easily
