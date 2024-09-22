@@ -23,6 +23,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -36,8 +37,8 @@
 
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more
 - [Yeely0162/Chappie2_REB](https://github.com/Yeely0162/Chappie2_REB) - Rebuild_Chappie2_Update_code
-- [Forairaaaaa/Chappie-II](https://github.com/Forairaaaaa/Chappie-II) - 小手表开发板 (｡・`ω´･)
-- [Forairaaaaa/Monica](https://github.com/Forairaaaaa/Monica) - DIY Amoled 屏手表 (｡・`ω´･)
+- [Forairaaaaa/Chappie-II](https://github.com/Forairaaaaa/Chappie-II) - 小手表开发板
+- [Forairaaaaa/Monica](https://github.com/Forairaaaaa/Monica) - DIY Amoled 屏手表
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [mzdluo123/silk4j](https://github.com/mzdluo123/silk4j) - [全平台] silkv3编解码器的Java接口，同时支持mp3格式的编解码
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
@@ -54,7 +55,7 @@
 ## C++ 
 
 - [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
-- [Forairaaaaa/Regina](https://github.com/Forairaaaaa/Regina) - 年轻人的第一台BB机 (｡・`ω´･)
+- [Forairaaaaa/Regina](https://github.com/Forairaaaaa/Regina) - 年轻人的第一台BB机
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [sanko-shoko/gtmaker](https://github.com/sanko-shoko/gtmaker) - 
@@ -114,6 +115,8 @@
 
 ## Java 
 
+- [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
@@ -124,7 +127,7 @@
 - [xzc-coder/netty-mqtt-client](https://github.com/xzc-coder/netty-mqtt-client) - 基于Netty实现的MQTT客户端
 - [javpower/JavaVision](https://github.com/javpower/JavaVision) - JavaVision是一个基于Java开发的全能视觉智能识别项目。该项目起源于对图像处理和人工智能领域的热情，以及对Java作为主要编程语言的坚持。在AI领域，大多数解决方案都是使用Python实现的，因此决定充分利用Java的优势来构建一个功能强大且易于集成的视觉智能识别平台。
 - [siam1026/siam-server](https://github.com/siam1026/siam-server) - 暹罗点餐是一款Java餐饮点餐系统，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。该系统包含用户端、商家端、配送端以及总管理后台，美食下单、外卖配送、连锁餐饮和扫码点餐等核心功能，同时提供积分商城、会员中心和邀请好友注册返现等增值服务，以拓展客源。基于 Spring Boot + MyBatis Plus + Vue & Element + uni-app 技术栈进行开发；
-- [loks666/get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+- [loks666/get_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 - [RoaringBitmap/RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [Cheung0-bit/TuneSurge](https://github.com/Cheung0-bit/TuneSurge) - 🎵TuneSurge是笔者对于Spring Cloud Alibaba框架的一次实践，同时对分库分表、流媒体编程、分布式任务调度、分布式事务、系统高并发、OAuth2的认证授权的实现做出了尝试
@@ -306,6 +309,10 @@
 - [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 
+## Rich Text Format 
+
+- [mcxiaoke/mqtt](https://github.com/mcxiaoke/mqtt) - MQTT协议3.1.1中文翻译版，IoT，物联网
+
 ## Ruby 
 
 - [bydmm/yuanlimm](https://github.com/bydmm/yuanlimm) - 援力满满 - 二次元虚拟人物交易交易所
@@ -342,7 +349,7 @@
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [qier222/stay-vibrant](https://github.com/qier222/stay-vibrant) - enjoy electronic music and stay vibrant ↑%
-- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, MacOS and Linux(x11).
+- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [VidBingeApp/VidBinge](https://github.com/VidBingeApp/VidBinge) - A web app for watching movies and shows easily
