@@ -84,7 +84,6 @@
 - [Predidit/oneAnime](https://github.com/Predidit/oneAnime) - 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
 - [a-oboh/epic-games-flutter](https://github.com/a-oboh/epic-games-flutter) - 
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 
@@ -94,6 +93,7 @@
 
 ## Go 
 
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [imtoori/primitive-telbot](https://github.com/imtoori/primitive-telbot) - Telegram bot powered by primitive-algorithm
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
@@ -167,6 +167,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Vincedream/ddd-fe-demo](https://github.com/Vincedream/ddd-fe-demo) - ⚙️Domain-Driven Design for frontEnd demo
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
@@ -174,7 +175,7 @@
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [ondras/primitive.js](https://github.com/ondras/primitive.js) - JS port of primitive.lol
-- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
+- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
 - [qier222/qier222.com](https://github.com/qier222/qier222.com) - 👨‍💻 My personal website.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 - [hczhcz/telegram-kuso-bots](https://github.com/hczhcz/telegram-kuso-bots) - Telegram bots for fun
@@ -199,7 +200,6 @@
 - [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - ✨WebRTC - C2C - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [MattMcFarland/battlefield-stats](https://github.com/MattMcFarland/battlefield-stats) - A node api for collection and analysis of battlefield 1 and battlefield 4 statistics.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
@@ -255,7 +255,10 @@
 
 ## Python 
 
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
+- [icue/DoubanImageWall](https://github.com/icue/DoubanImageWall) - 生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video super resolution framework. Est. Hack the Valley II, 2018.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [SHAHFAISAL80/Player-detection-and-ball-detection](https://github.com/SHAHFAISAL80/Player-detection-and-ball-detection) - 
 - [jac99/FootAndBall](https://github.com/jac99/FootAndBall) - FootAndBall: Integrated player and ball detector
@@ -327,6 +330,7 @@
 
 ## Rust 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) - 一个简单的游戏存档管理器
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -378,6 +382,7 @@
 - [LIU9293/chatgpt-vocabulary](https://github.com/LIU9293/chatgpt-vocabulary) - ChatGPT based vocabulary tester API
 - [community-network/gametools.network-website](https://github.com/community-network/gametools.network-website) - Game tools website powered by Community Network. Check your Battlefield stats, servers, platoons or portal experiences.
 - [remotion-dev/github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - Your coding year in review
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
