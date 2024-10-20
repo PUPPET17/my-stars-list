@@ -36,6 +36,7 @@
 
 ## C 
 
+- [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more
 - [Yeely0162/Chappie2_REB](https://github.com/Yeely0162/Chappie2_REB) - Rebuild_Chappie2_Update_code
 - [Forairaaaaa/Chappie-II](https://github.com/Forairaaaaa/Chappie-II) - 小手表开发板
@@ -105,6 +106,8 @@
 
 ## HTML 
 
+- [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏮️ ⏸️ ⏯️
+- [EtherDream/media-popup-player](https://github.com/EtherDream/media-popup-player) - Watch videos on the album artwork of music control bar
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [fangkehou-team/yinglish_web](https://github.com/fangkehou-team/yinglish_web) - 淫语翻译器 网页版（具体讲是翻译插件版）
 - [Grt1228/chatgpt-steam-output](https://github.com/Grt1228/chatgpt-steam-output) - Open AI ChatGPT流式输出。Open AI Stream output. ChatGPT Stream output.GPT-3.5
@@ -119,6 +122,8 @@
 
 ## Java 
 
+- [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
+- [981011512/--](https://github.com/981011512/--) - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持a
 - [wechatpay-apiv3/wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 - [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -168,6 +173,7 @@
 
 ## JavaScript 
 
+- [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音爬虫(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博等平台爬虫开源api接口服务器。docker一键快速部署。
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Vincedream/ddd-fe-demo](https://github.com/Vincedream/ddd-fe-demo) - ⚙️Domain-Driven Design for frontEnd demo
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
@@ -226,8 +232,8 @@
 
 ## Others 
 
+- [EtherDream/web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
 - [z-mahmud22/Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x) - Dlib compiled binary (.whl) for Python 3.7-3.12 and Windows x64
-- [54Coconi/CocoPyRPA-QT](https://github.com/54Coconi/CocoPyRPA-QT) - 基于PyQt5开发的CocoPyRPA的GUI版本
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -256,6 +262,8 @@
 
 ## Python 
 
+- [LibraHp/GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [icue/DoubanImageWall](https://github.com/icue/DoubanImageWall) - 生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
@@ -264,6 +272,7 @@
 - [jac99/FootAndBall](https://github.com/jac99/FootAndBall) - FootAndBall: Integrated player and ball detector
 - [RimoChan/not_translator](https://github.com/RimoChan/not_translator) - 【not translator】不会翻译机！
 - [RimoChan/unv-shield](https://github.com/RimoChan/unv-shield) - 【幼盾】个性化图片徽章服务！
+- [54Coconi/CocoPyRPA-QT](https://github.com/54Coconi/CocoPyRPA-QT) - 基于PyQt5开发的CocoPyRPA的GUI版本
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [JaniceWuo/MovieRecommend](https://github.com/JaniceWuo/MovieRecommend) - 一个电影推荐系统
@@ -347,6 +356,7 @@
 
 ## Svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [luttje/mermaid-gpt](https://github.com/luttje/mermaid-gpt) - Generates an ERD or Class Diagram based on natural language input.
 
 ## Swift 
@@ -389,6 +399,10 @@
 
 ## Vue 
 
+- [Elevista/git-history](https://github.com/Elevista/git-history) - Simple implementation of pomber/git-history using css transition animations based on Vue components
+- [robozevel/word-drag](https://github.com/robozevel/word-drag) - Drag and drop text editor
+- [dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
+- [jeff-labs/vuejs-camera](https://github.com/jeff-labs/vuejs-camera) - Component for Vue.js to use the camera on your website.
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [zyronon/typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
