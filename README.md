@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
 - [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
 - [Forairaaaaa/Regina](https://github.com/Forairaaaaa/Regina) - 年轻人的第一台BB机
@@ -107,9 +108,11 @@
 
 ## HTML 
 
+- [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [codrops/ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background image in order to create a subtle motion or depth effect.
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏮️ ⏸️ ⏯️
 - [EtherDream/media-popup-player](https://github.com/EtherDream/media-popup-player) - Watch videos on the album artwork of music control bar
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [fangkehou-team/yinglish_web](https://github.com/fangkehou-team/yinglish_web) - 淫语翻译器 网页版（具体讲是翻译插件版）
 - [Grt1228/chatgpt-steam-output](https://github.com/Grt1228/chatgpt-steam-output) - Open AI ChatGPT流式输出。Open AI Stream output. ChatGPT Stream output.GPT-3.5
@@ -124,6 +127,7 @@
 
 ## Java 
 
+- [kerwincui/FastBee](https://github.com/kerwincui/FastBee) - FastBee开源物联网平台，简单易用，可用于搭建物联网平台以及二次开发和学习。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
 - [auth0-samples/auth0-spring-security5-api-sample](https://github.com/auth0-samples/auth0-spring-security5-api-sample) - Sample demonstrating how to secure your API using Spring Boot 2 and Spring Security 5
 - [xuxueli/xxl-boot](https://github.com/xuxueli/xxl-boot) - A fast development platform.（XXL-BOOT 是一个快速开发平台，易学易用、简化开发、丰富扩展、开箱即用。整合前后端流行技术，致力为 中小企业、个人开发者 打造开箱即用的中后台解决方案）
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
@@ -179,6 +183,12 @@
 
 ## JavaScript 
 
+- [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+- [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
+- [leafletEx/leafletjsExample](https://github.com/leafletEx/leafletjsExample) - Some examples of using leafletjs with vue3.x
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+- [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
 - [Renovamen/Just-a-Cube](https://github.com/Renovamen/Just-a-Cube) - A rubik's cube solver | 魔方还原（层先法 + Two-phase）
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
@@ -239,6 +249,8 @@
 
 ## Others 
 
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [Hardy-Uint/awesome-defect-detection](https://github.com/Hardy-Uint/awesome-defect-detection) - defect detection algorithm
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [EtherDream/web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
 - [z-mahmud22/Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x) - Dlib compiled binary (.whl) for Python 3.7-3.12 and Windows x64
@@ -270,12 +282,12 @@
 
 ## Python 
 
+- [Charmve/Surface-Defect-Detection](https://github.com/Charmve/Surface-Defect-Detection) - 📈 目前最大的工业缺陷检测数据库及论文集 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [RimoChan/unv-shield](https://github.com/RimoChan/unv-shield) - 【幼盾】个性化图片徽章服务！
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [SHAHFAISAL80/Player-detection-and-ball-detection](https://github.com/SHAHFAISAL80/Player-detection-and-ball-detection) - 
 - [jac99/FootAndBall](https://github.com/jac99/FootAndBall) - FootAndBall: Integrated player and ball detector
@@ -343,6 +355,7 @@
 
 ## Rust 
 
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) - 一个简单的游戏存档管理器
@@ -370,6 +383,7 @@
 
 ## TypeScript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [xiong35/color-extraction](https://github.com/xiong35/color-extraction) - 研究提取图片主题色的算法
@@ -408,6 +422,7 @@
 
 ## Vue 
 
+- [yimocanxue/vue-car-plate-keyboard](https://github.com/yimocanxue/vue-car-plate-keyboard) - A vehicle license plate number keyboard
 - [auth0-samples/auth0-vue-samples](https://github.com/auth0-samples/auth0-vue-samples) - Auth0 Integration Samples for Vue.js Applications
 - [davidaf3/csgo-tracker](https://github.com/davidaf3/csgo-tracker) - Simple Electron app that lets you track your Counter-Strike 2 matches and stats
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
