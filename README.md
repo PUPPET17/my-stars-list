@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -35,10 +34,6 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
-## Batchfile 
-
-- [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
-
 ## C 
 
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
@@ -63,7 +58,7 @@
 
 ## C++ 
 
-- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 你的YOLO部署神器。TensorRT Plugin、CUDA Kernel、CUDA Graphs三管齐下，享受闪电般的推理速度。| Your YOLO Deployment Powerhouse. With the synergy of TensorRT Plugins, CUDA Kernels, and CUDA Graphs, experience lightning-fast in
+- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - TensorRT-YOLO: A high-performance, easy-to-use YOLO deployment toolkit for NVIDIA, powered by TensorRT plugins and CUDA Graph, supporting C++ and Python.
 - [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
@@ -95,7 +90,7 @@
 - [chengyangkj/ROS_Flutter_Gui_App](https://github.com/chengyangkj/ROS_Flutter_Gui_App) - 
 - [Predidit/oneAnime](https://github.com/Predidit/oneAnime) - 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
 - [a-oboh/epic-games-flutter](https://github.com/a-oboh/epic-games-flutter) - 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 
@@ -138,6 +133,7 @@
 
 ## Java 
 
+- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [wechatpay-apiv3/wechatpay-apache-httpclient](https://github.com/wechatpay-apiv3/wechatpay-apache-httpclient) - 微信支付 APIv3 Apache HttpClient装饰器（decorator）
 - [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) - WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
 - [banmajio/RTSPtoHTTP-FLV](https://github.com/banmajio/RTSPtoHTTP-FLV) - 使用JavaCV开发的rtsp流转http-flv流(rtmp已不支持)并进行推流的流媒体服务
@@ -152,7 +148,7 @@
 - [moquette-io/moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - 100%开源的企业培训系统，界面美观，操作简单，一键部署您的私有化培训平台！
-- [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
+- [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [DWHengr/linyu-server](https://github.com/DWHengr/linyu-server) - im system server
 - [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
@@ -265,6 +261,8 @@
 
 ## Others 
 
+- [HugoMatilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [chartjs/awesome](https://github.com/chartjs/awesome) - A curated list of awesome Chart.js resources and libraries
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [Hardy-Uint/awesome-defect-detection](https://github.com/Hardy-Uint/awesome-defect-detection) - defect detection algorithm
@@ -299,6 +297,7 @@
 
 ## Python 
 
+- [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [Charmve/Surface-Defect-Detection](https://github.com/Charmve/Surface-Defect-Detection) - 📈 目前最大的工业缺陷检测数据库及论文集 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.
@@ -350,7 +349,7 @@
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -386,6 +385,7 @@
 
 ## Shell 
 
+- [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
@@ -402,6 +402,7 @@
 
 ## TypeScript 
 
+- [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -437,7 +438,7 @@
 - [community-network/gametools.network-website](https://github.com/community-network/gametools.network-website) - Game tools website powered by Community Network. Check your Battlefield stats, servers, platoons or portal experiences.
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哔君 - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 
