@@ -287,7 +287,7 @@
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、DeepSeek、Claude、Gemini、ChatGLM、文心一言、讯飞星火，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
@@ -639,6 +639,7 @@
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+- [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
 - [LiangXiaoWei1024/net-penetrate-http-and-https-simple](https://github.com/LiangXiaoWei1024/net-penetrate-http-and-https-simple) - 内网穿透、GUI、一键启动、不限速，内置日志
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -807,7 +808,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ## nlp 
 
@@ -848,6 +849,7 @@
 
 ## others 
 
+- [swsk33/mc-server-sync](https://github.com/swsk33/mc-server-sync) - 基于Golang开发的轻量级Minecraft Java版模组服务器同步工具，支持同步模组服务器的模组等相关文件到玩家客户端，避免服务器模组变化时，玩家需要手动添加/移除模组。
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [ShinoKana/multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
@@ -864,7 +866,7 @@
 - [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 - [HugoMatilla/Effective-JAVA-Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary) - Summary of the book Effective Java 2nd Edition by Joshua Bloch
-- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - TensorRT-YOLO: A high-performance, easy-to-use YOLO deployment toolkit for NVIDIA, powered by TensorRT plugins and CUDA Graph, supporting C++ and Python.
+- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 Easier & Faster YOLO Deployment Toolkit for NVIDIA 🛠️
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器
 - [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
@@ -885,7 +887,7 @@
 - [Renovamen/Just-a-Cube](https://github.com/Renovamen/Just-a-Cube) - A rubik's cube solver | 魔方还原（层先法 + Two-phase）
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [RimoChan/unv-shield](https://github.com/RimoChan/unv-shield) - 【幼盾】个性化图片徽章服务！
-- [xuxueli/xxl-boot](https://github.com/xuxueli/xxl-boot) - A fast development platform.（XXL-BOOT 是一个快速开发平台，易学易用、简化开发、丰富扩展、开箱即用。整合前后端流行技术，致力为 中小企业、个人开发者 打造开箱即用的中后台解决方案）
+- [xuxueli/xxl-boot](https://github.com/xuxueli/xxl-boot) - A fast development platform.（快速开发平台 XXL-BOOT，整合前后端流行技术，致力为 中小企业、个人开发者 打造开箱即用的中后台解决方案）
 - [codrops/ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background image in order to create a subtle motion or depth effect.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
@@ -988,7 +990,6 @@
 - [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [semvis123/Sonitus](https://github.com/semvis123/Sonitus) - Noise-control like native, but for non-Apple devices
 - [sanko-shoko/gtmaker](https://github.com/sanko-shoko/gtmaker) - 
 - [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
@@ -1117,7 +1118,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ## reactjs 
 
