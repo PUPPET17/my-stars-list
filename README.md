@@ -68,6 +68,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
+- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 Easier & Faster YOLO Deployment Toolkit for NVIDIA 🛠️
 - [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
@@ -75,7 +76,7 @@
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
 - [Forairaaaaa/Regina](https://github.com/Forairaaaaa/Regina) - 年轻人的第一台BB机
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [sanko-shoko/gtmaker](https://github.com/sanko-shoko/gtmaker) - 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -150,7 +151,6 @@
 
 - [zeromq/jeromq](https://github.com/zeromq/jeromq) - JeroMQ is a pure Java implementation of the ZeroMQ messaging library, offering high-performance asynchronous messaging for distributed or concurrent applications.
 - [scola/Qart](https://github.com/scola/Qart) - Qart merge picture and QR code, based on https://github.com/chinuno-usami/CuteR
-- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [wechatpay-apiv3/wechatpay-apache-httpclient](https://github.com/wechatpay-apiv3/wechatpay-apache-httpclient) - 微信支付 APIv3 Apache HttpClient装饰器（decorator）
 - [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) - WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
 - [banmajio/RTSPtoHTTP-FLV](https://github.com/banmajio/RTSPtoHTTP-FLV) - 使用JavaCV开发的rtsp流转http-flv流(rtmp已不支持)并进行推流的流媒体服务
@@ -202,7 +202,7 @@
 - [LiangXiaoWei1024/net-penetrate-http-and-https-simple](https://github.com/LiangXiaoWei1024/net-penetrate-http-and-https-simple) - 内网穿透、GUI、一键启动、不限速，内置日志
 - [whypro/Hello-Word](https://github.com/whypro/Hello-Word) - 用 JAVA(J2SE) 实现的一个背单词程序，可自由选择词库。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [maliangnansheng/bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于SpringBoot+Vue(2/3)框架实现前后端分离（大厂微服务架构设计；代码简洁、高效无冗余；注释详细易阅读），自适应手机端和电脑端，界面简洁美观，功能完善，性能高效。官方地址：https://bbs.nanshengbbs.top
+- [maliangnansheng/bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 【南生论坛】- 开源Java论坛，仿掘金风格，技术架构采用SpringBoot + Vue，前后端分离，多端适配，界面优雅，功能全面，性能高效，企业级微服务开源项目。官方地址：https://bbs.nanshengbbs.top
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [fuzhengwei/Lottery](https://github.com/fuzhengwei/Lottery) - 🎁 Lottery 抽奖系统 - 基于领域驱动设计的四层架构实践 |  Lottery 抽奖系统 项目是一款互联网面向C端人群营销活动类的抽奖系统，可以提供抽奖活动玩法策略的创建、参与、记账、发奖等逻辑功能。在使用的过程中运营人员通过创建概率类奖品的抽奖玩法，对用户进行拉新、促活、留存，通常这样的系统会用在电商、外卖、出行、公众号运营等各类场景中。By 小傅哥，《重学Java设计模式》图书作者，沉
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
@@ -210,13 +210,15 @@
 
 ## JavaScript 
 
+- [sumimakito/Awesome-qr.js](https://github.com/sumimakito/Awesome-qr.js) - An awesome QR code generator written in JavaScript.
+- [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 - [ShinoKana/multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器
+- [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 - [mskian/gotify-push](https://github.com/mskian/gotify-push) - Chrome Extension for Send Push Notification 🔔 to gotify/server ☁
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
@@ -269,6 +271,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [iusztinpaul/hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) - 🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -327,6 +330,9 @@
 
 ## Python 
 
+- [yaroslaff/nudecrawler](https://github.com/yaroslaff/nudecrawler) - Crawl telegra.ph searching for nudes!
+- [FujiwaraChoki/TeleSync](https://github.com/FujiwaraChoki/TeleSync) - Store your files on Telegram (Unlimited Storage).
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [antoinelame/GazeTracking](https://github.com/antoinelame/GazeTracking) - 👀 Eye Tracking library easily implementable to your projects
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
 - [chinuno-usami/CuteR](https://github.com/chinuno-usami/CuteR) - 
@@ -379,7 +385,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持DeepSeek、Claude、OpenAI、Gemini、ChatGLM、Ollama，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+- [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 插件生态 x 工作流系统， DIY 你自己的 AI 聊天机器人！支持DeepSeek、Claude、Grok、OpenAI、Gemini、ChatGLM、Ollama，人设调教，虚拟女仆、语音对话 | 支持 QQ、Telegram、Discord、微信 等平台
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
@@ -408,6 +414,7 @@
 
 ## Rust 
 
+- [Dominux/Pentaract](https://github.com/Dominux/Pentaract) - Unlimited file cloud storage based on using Telegram API
 - [ethangreen-dev/lovely-injector](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -452,7 +459,7 @@
 - [xiong35/color-extraction](https://github.com/xiong35/color-extraction) - 研究提取图片主题色的算法
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [XC0703/better-chat](https://github.com/XC0703/better-chat) - 本项目是一个前端基于vite、react、ts，后端基于express、mysql，并依赖websocket、webrtc实现的局域网实时聊天全栈项目，且持续开源和维护。
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [attikos/ddd-vue-match-game](https://github.com/attikos/ddd-vue-match-game) - Vue3, TypeScript, Domain Driven Design - Match-Match Game
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 现代化的基于 NTQQ 的 Bot 协议端实现
 - [chenxch/xlegex](https://github.com/chenxch/xlegex) - Match 3 type game template. 简化版羊了个羊游戏模板
@@ -474,7 +481,7 @@
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [LIU9293/chatgpt-vocabulary](https://github.com/LIU9293/chatgpt-vocabulary) - ChatGPT based vocabulary tester API
 - [community-network/gametools.network-website](https://github.com/community-network/gametools.network-website) - Game tools website powered by Community Network. Check your Battlefield stats, servers, platoons or portal experiences.
@@ -497,7 +504,7 @@
 - [L-noodle/vue-big-screen](https://github.com/L-noodle/vue-big-screen) - 一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。
 - [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-- [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. NOT FOR SAFARI, SAY NO TO SUPPORT SAFARI. FUCK APPLE! Bewley on the App Store is not uploaded by us and we do not endorse it. (English | 简体中文 |
+- [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 - [Bug-Duck/vuemotion](https://github.com/Bug-Duck/vuemotion) - The next-generation animation engine for Vuejs Ecosystem
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
