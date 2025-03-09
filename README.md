@@ -127,13 +127,14 @@
 - [imtoori/primitive-telbot](https://github.com/imtoori/primitive-telbot) - Telegram bot powered by primitive-algorithm
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
 - [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 
 ## HTML 
 
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
+- [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.
 - [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [codrops/ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background image in order to create a subtle motion or depth effect.
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏮️ ⏸️ ⏯️
@@ -152,6 +153,7 @@
 
 ## Java 
 
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [zeromq/jeromq](https://github.com/zeromq/jeromq) - JeroMQ is a pure Java implementation of the ZeroMQ messaging library, offering high-performance asynchronous messaging for distributed or concurrent applications.
 - [scola/Qart](https://github.com/scola/Qart) - Qart merge picture and QR code, based on https://github.com/chinuno-usami/CuteR
 - [wechatpay-apiv3/wechatpay-apache-httpclient](https://github.com/wechatpay-apiv3/wechatpay-apache-httpclient) - 微信支付 APIv3 Apache HttpClient装饰器（decorator）
@@ -338,6 +340,7 @@
 
 ## Python 
 
+- [rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
 - [yaroslaff/nudecrawler](https://github.com/yaroslaff/nudecrawler) - Crawl telegra.ph searching for nudes!
 - [FujiwaraChoki/TeleSync](https://github.com/FujiwaraChoki/TeleSync) - Store your files on Telegram (Unlimited Storage).
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -510,6 +513,8 @@
 
 ## Vue 
 
+- [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
+- [yudaocode/yudao-ui-admin-vben](https://github.com/yudaocode/yudao-ui-admin-vben) - 
 - [L-noodle/vue-big-screen](https://github.com/L-noodle/vue-big-screen) - 一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。
 - [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
@@ -537,7 +542,6 @@
 - [wdrdres3qew5ts21/MeetU](https://github.com/wdrdres3qew5ts21/MeetU) - Application that build on Elasticsearch and Spring Boot Microservices (Synchronous Service)
 - [MoNaiZi/Note](https://github.com/MoNaiZi/Note) - 一款用vue3+electron19开发的记事本和大纲，思维导图功能(仿幕布)，拥有开机自启，悬浮窗，优雅的窗口过渡
 - [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
