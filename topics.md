@@ -154,6 +154,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vue](#vue)
@@ -471,7 +472,7 @@
 
 ## dotfiles 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 
 ## dotnet 
 
@@ -766,7 +767,7 @@
 
 ## linux 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -822,7 +823,7 @@
 
 ## material-design 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
 
 ## maven 
 
@@ -917,6 +918,7 @@
 
 ## others 
 
+- [NaTieJun/orise-charge-cloud](https://github.com/NaTieJun/orise-charge-cloud) - ⚡️充电桩开源云平台⚡️完整源代码，包含模拟桩模块，可通过docker编排快速部署测试。技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。
 - [fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty) - 微信公众号：bugstack虫洞栈 | 专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈 | 阅读专题文章+调试案例源码学习｛回复netty案例｝。
 - [rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
@@ -1074,7 +1076,6 @@
 - [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
 - [mzdluo123/silk4j](https://github.com/mzdluo123/silk4j) - [全平台] silkv3编解码器的Java接口，同时支持mp3格式的编解码
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
 - [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
@@ -1338,6 +1339,11 @@
 - [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+
+## text-to-speech 
+
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 
 ## twitter 
 
