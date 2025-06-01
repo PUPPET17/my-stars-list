@@ -488,7 +488,7 @@
 
 ## dotfiles 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 
 ## dotnet 
 
@@ -785,7 +785,7 @@
 ## linux 
 
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
@@ -843,7 +843,7 @@
 
 ## material-design 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 
 ## maven 
 
@@ -943,6 +943,7 @@
 
 ## others 
 
+- [liuyunzhuge/php_weixin_proxy](https://github.com/liuyunzhuge/php_weixin_proxy) - 实现微信网页授权回调域名的代理转发，突破回调域名只能应用于一个项目的限制。这个项目提供的是解决这个问题的思路，参考即可，任何语言平台都可以用这个思路来解决这个问题。
 - [NaTieJun/orise-charge-cloud](https://github.com/NaTieJun/orise-charge-cloud) - ⚡️充电桩开源云平台⚡️完整源代码，包含模拟桩模块，可通过docker编排快速部署测试。技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。
 - [fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty) - 微信公众号：bugstack虫洞栈 | 专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈 | 阅读专题文章+调试案例源码学习｛回复netty案例｝。
 - [rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
@@ -992,7 +993,7 @@
 - [Renovamen/Just-a-Cube](https://github.com/Renovamen/Just-a-Cube) - A rubik's cube solver | 魔方还原（层先法 + Two-phase）
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [RimoChan/unv-shield](https://github.com/RimoChan/unv-shield) - 【幼盾】个性化图片徽章服务！
-- [xuxueli/xxl-boot](https://github.com/xuxueli/xxl-boot) - A fast development platform.（快速开发平台 XXL-BOOT，整合前后端流行技术，致力为 中小企业、个人开发者 打造开箱即用的中后台解决方案）
+- [xuxueli/xxl-boot](https://github.com/xuxueli/xxl-boot) - A fast development platform.（快速开发平台 XXL-BOOT）
 - [codrops/ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background image in order to create a subtle motion or depth effect.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
@@ -1338,6 +1339,7 @@
 
 ## telegram 
 
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 - [FujiwaraChoki/TeleSync](https://github.com/FujiwaraChoki/TeleSync) - Store your files on Telegram (Unlimited Storage).
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
@@ -1346,6 +1348,7 @@
 
 ## telegram-bot 
 
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。
 - [imtoori/primitive-telbot](https://github.com/imtoori/primitive-telbot) - Telegram bot powered by primitive-algorithm
 
 ## tensorflow 
