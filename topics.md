@@ -954,9 +954,9 @@
 
 ## others 
 
+- [sinyu1012/chatlog-web](https://github.com/sinyu1012/chatlog-web) - Chatlog Web 是 chatlog 项目的现代化 Web 管理界面，提供了强大的微信聊天记录可视化分析和管理功能。通过直观的图表和数据分析，帮助用户更好地理解和探索自己的聊天数据。
 - [chen310/SeamPotPlayer](https://github.com/chen310/SeamPotPlayer) - 使用 Seam 在 PotPlayer 中播放直播
 - [liuyunzhuge/php_weixin_proxy](https://github.com/liuyunzhuge/php_weixin_proxy) - 实现微信网页授权回调域名的代理转发，突破回调域名只能应用于一个项目的限制。这个项目提供的是解决这个问题的思路，参考即可，任何语言平台都可以用这个思路来解决这个问题。
-- [NaTieJun/orise-charge-cloud](https://github.com/NaTieJun/orise-charge-cloud) - ⚡️充电桩开源云平台⚡️完整源代码，包含模拟桩模块，可通过docker编排快速部署测试。技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。
 - [fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty) - 微信公众号：bugstack虫洞栈 | 专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈 | 阅读专题文章+调试案例源码学习｛回复netty案例｝。
 - [rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
@@ -1039,7 +1039,7 @@
 - [54Coconi/CocoPyRPA-QT](https://github.com/54Coconi/CocoPyRPA-QT) - 基于PyQt5开发的CocoPyRPA的GUI版本
 - [chengyangkj/ROS_Flutter_Gui_App](https://github.com/chengyangkj/ROS_Flutter_Gui_App) - 
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [zyronon/typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
+- [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - 练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.
 - [ondras/primitive.js](https://github.com/ondras/primitive.js) - JS port of primitive.lol
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
@@ -1092,7 +1092,7 @@
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 - [darcyliu/google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects"
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [saysky/StudyEnglish](https://github.com/saysky/StudyEnglish) - SpringBoot学习英语系统 背单词系统
 - [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
