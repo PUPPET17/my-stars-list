@@ -111,7 +111,7 @@
 - [roipeker/fika](https://github.com/roipeker/fika) - Fika Coffee Challenge
 - [FlutterBaba/Coffee---Shop---UI-](https://github.com/FlutterBaba/Coffee---Shop---UI-) - HI There How are you I hope are you doing good today I make Beautiful Coffee Shop App UI Design in flutter you can make this one easy. don't worry if you get any problem and error please contact me I 
 - [Mohammed-Benotmane/Jet-Coffee-Shop](https://github.com/Mohammed-Benotmane/Jet-Coffee-Shop) - JetCoffeeShop is the second app of my One week challenge, It's a Flutter Application of a CoffeeShop that displays available menus with details page of each beverage.
-- [chengyangkj/ROS_Flutter_Gui_App](https://github.com/chengyangkj/ROS_Flutter_Gui_App) - 
+- [chengyangkj/ROS_Flutter_Gui_App](https://github.com/chengyangkj/ROS_Flutter_Gui_App) - Cross-platform ROS1/ROS2 robot two-dimensional visual control APP based on flutter
 - [Predidit/oneAnime](https://github.com/Predidit/oneAnime) - 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
 - [a-oboh/epic-games-flutter](https://github.com/a-oboh/epic-games-flutter) - 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
@@ -372,7 +372,7 @@
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [Charmve/Surface-Defect-Detection](https://github.com/Charmve/Surface-Defect-Detection) - 📈 目前最大的工业缺陷检测数据库及论文集 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [RimoChan/unv-shield](https://github.com/RimoChan/unv-shield) - 【幼盾】个性化图片徽章服务！
@@ -475,6 +475,7 @@
 
 ## TypeScript 
 
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
