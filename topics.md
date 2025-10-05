@@ -171,6 +171,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -676,7 +677,6 @@
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - ✨WebRTC - C2C - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe.
@@ -1477,6 +1477,11 @@
 ## ui-design 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+## visualization 
+
+- [dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## vue 
 
