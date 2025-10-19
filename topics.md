@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
 - [android](#android)
@@ -205,6 +206,10 @@
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+## ai-agents 
+
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 
 ## algorithm 
 
@@ -1140,7 +1145,7 @@
 - [Leme34/stateMachine](https://github.com/Leme34/stateMachine) - 参考：高德打车通用可编排订单状态机引擎设计
 - [Yeely0162/Chappie2_REB](https://github.com/Yeely0162/Chappie2_REB) - Rebuild_Chappie2_Update_code
 - [Forairaaaaa/Chappie-II](https://github.com/Forairaaaaa/Chappie-II) - 小手表开发板
-- [Forairaaaaa/Monica](https://github.com/Forairaaaaa/Monica) - DIY Amoled 屏手表
+- [Forairaaaaa/Monica](https://github.com/Forairaaaaa/Monica) - DIY AMOLED 屏手表
 - [jifengg/ffmpeg-script](https://github.com/jifengg/ffmpeg-script) - A script set that uses ffmpeg to implement various functions
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
@@ -1406,7 +1411,7 @@
 
 ## telegram 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
 - [FujiwaraChoki/TeleSync](https://github.com/FujiwaraChoki/TeleSync) - Store your files on Telegram (Unlimited Storage).
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
@@ -1415,7 +1420,7 @@
 
 ## telegram-bot 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
 - [imtoori/primitive-telbot](https://github.com/imtoori/primitive-telbot) - Telegram bot powered by primitive-algorithm
 
 ## tensorflow 
