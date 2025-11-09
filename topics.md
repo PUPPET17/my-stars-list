@@ -1412,7 +1412,7 @@
 
 ## telegram 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 搜索您的 Telegram 聊天记录
 - [FujiwaraChoki/TeleSync](https://github.com/FujiwaraChoki/TeleSync) - Store your files on Telegram (Unlimited Storage).
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
@@ -1421,7 +1421,7 @@
 
 ## telegram-bot 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 搜索您的 Telegram 聊天记录
 - [imtoori/primitive-telbot](https://github.com/imtoori/primitive-telbot) - Telegram bot powered by primitive-algorithm
 
 ## tensorflow 
