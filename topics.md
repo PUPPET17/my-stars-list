@@ -81,6 +81,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [gamedev](#gamedev)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-config](#github-config)
@@ -347,7 +348,7 @@
 
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt 
 
@@ -363,12 +364,12 @@
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chatgpt-api 
 
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chrome-extension 
 
@@ -650,6 +651,11 @@
 
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
+## generative-ai 
+
+- [x-glacier/GenerativeAgentsCN](https://github.com/x-glacier/GenerativeAgentsCN) - 本项目为Generative Agents项目的重构+深度汉化版本，旨在为中文用户提供一个利于维护的基础版本，以便后续实验或功能拓展。
+- [iusztinpaul/hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) - 🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
+
 ## git 
 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -861,7 +867,7 @@
 ## language 
 
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## linux 
 
@@ -1040,7 +1046,6 @@
 
 - [Ayndpa/ConnectTool](https://github.com/Ayndpa/ConnectTool) - 
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
-- [x-glacier/GenerativeAgentsCN](https://github.com/x-glacier/GenerativeAgentsCN) - 本项目为Generative Agents项目的重构+深度汉化版本，旨在为中文用户提供一个利于维护的基础版本，以便后续实验或功能拓展。
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [xvrsl/duckov_modding](https://github.com/xvrsl/duckov_modding) - 
@@ -1147,7 +1152,7 @@
 - [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
+- [ruiqianyi/Mybatis-PageHelper](https://github.com/ruiqianyi/Mybatis-PageHelper) - Mybatis通用分页插件
 - [Forairaaaaa/Regina](https://github.com/Forairaaaaa/Regina) - 年轻人的第一台BB机
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
