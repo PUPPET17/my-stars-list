@@ -188,7 +188,7 @@
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [DWHengr/linyu-server](https://github.com/DWHengr/linyu-server) - im system server
-- [ruiqianyi/Mybatis-PageHelper](https://github.com/ruiqianyi/Mybatis-PageHelper) - Mybatis通用分页插件
+- [pagehelper-org/Mybatis-PageHelper](https://github.com/pagehelper-org/Mybatis-PageHelper) - Mybatis通用分页插件
 - [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [jd-opensource/sql-analysis](https://github.com/jd-opensource/sql-analysis) - 针对大促、日常系统稳定性隐患-慢sql的预防和排查，基于Mybatis插件设计的一款慢sql分析组件，区别于主流的基于慢sql日志分析和预警，实时根据Explain分析结果分析
 - [xzc-coder/netty-mqtt-client](https://github.com/xzc-coder/netty-mqtt-client) - 基于Netty实现的MQTT客户端
@@ -484,7 +484,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc
@@ -576,7 +576,7 @@
 - [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
 - [wdrdres3qew5ts21/MeetU](https://github.com/wdrdres3qew5ts21/MeetU) - Application that build on Elasticsearch and Spring Boot Microservices (Synchronous Service)
 - [MoNaiZi/Note](https://github.com/MoNaiZi/Note) - 一款用vue3+electron19开发的记事本和大纲，思维导图功能(仿幕布)，拥有开机自启，悬浮窗，优雅的窗口过渡
-- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
