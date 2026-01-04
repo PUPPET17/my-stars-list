@@ -223,7 +223,7 @@
 - [whypro/Hello-Word](https://github.com/whypro/Hello-Word) - 用 JAVA(J2SE) 实现的一个背单词程序，可自由选择词库。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [maliangnansheng/bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 【南生论坛】- 开源Java论坛（社区/问答/BBS/社交网络/博客），仿掘金风格，技术架构采用SpringBoot + Vue，前后端分离，多端适配，界面优雅，功能全面，性能高效，企业级微服务开源项目。官方地址：https://bbs.nansin.top
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [fuzhengwei/Lottery](https://github.com/fuzhengwei/Lottery) - 🎁 Lottery 抽奖系统 - 基于领域驱动设计的四层架构实践 |  Lottery 抽奖系统 项目是一款互联网面向C端人群营销活动类的抽奖系统，可以提供抽奖活动玩法策略的创建、参与、记账、发奖等逻辑功能。在使用的过程中运营人员通过创建概率类奖品的抽奖玩法，对用户进行拉新、促活、留存，通常这样的系统会用在电商、外卖、出行、公众号运营等各类场景中。By 小傅哥，《重学Java设计模式》图书作者，沉
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
 - [skarware/spring-boot-blog-app](https://github.com/skarware/spring-boot-blog-app) - Blogging platform build with Java 8, Spring Boot v2.2.6, Spring Web, Spring Data JPA, Spring Security, H2-in-memory-database, Lombok, Thymeleaf and Maven.
@@ -404,7 +404,7 @@
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit) - 🩹Editing large language models within 10 seconds⚡
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [peterbe/mincss](https://github.com/peterbe/mincss) - Tool for finding out which CSS selectors you're NOT using.
 - [ramibch/englishquiz](https://github.com/ramibch/englishquiz) - Practice and learn english
@@ -488,7 +488,7 @@
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
-- [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc
+- [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - 🔥 100+ free beautiful, interactive React/Next.js components built with Tailwind CSS, Framer Motion, React Three Fiber, GSAP, and more.
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
