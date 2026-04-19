@@ -93,6 +93,7 @@
 - [golang](#golang)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -749,6 +750,10 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 
+## hack 
+
+- [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.
+
 ## hacking 
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -821,6 +826,7 @@
 
 ## java 
 
+- [jobrunr/JavaClaw](https://github.com/jobrunr/JavaClaw) - JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr
 - [wechatpay-apiv3/wechatpay-apache-httpclient](https://github.com/wechatpay-apiv3/wechatpay-apache-httpclient) - 微信支付 APIv3 Apache HttpClient装饰器（decorator）
 - [kerwincui/FastBee](https://github.com/kerwincui/FastBee) - FastBee开源物联网平台，简单易用，可用于搭建物联网平台以及二次开发和学习。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
 - [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
@@ -1035,7 +1041,7 @@
 
 ## mysql 
 
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [fanchaoo/netease-cloud-music-community](https://github.com/fanchaoo/netease-cloud-music-community) - 参照网易云音乐云村做的一个小程序社区，后端技术栈为Java，SpringBoot，MySQL，Redis，前端技术栈为uni-app。欢迎吐槽。
 - [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
@@ -1132,6 +1138,7 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
@@ -1149,7 +1156,7 @@
 - [liuyunzhuge/php_weixin_proxy](https://github.com/liuyunzhuge/php_weixin_proxy) - 实现微信网页授权回调域名的代理转发，突破回调域名只能应用于一个项目的限制。这个项目提供的是解决这个问题的思路，参考即可，任何语言平台都可以用这个思路来解决这个问题。
 - [fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty) - 微信公众号：bugstack虫洞栈 | 专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈 | 阅读专题文章+调试案例源码学习｛回复netty案例｝。
 - [rbgirshick/fast-rcnn](https://github.com/rbgirshick/fast-rcnn) - Fast R-CNN
-- [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
+- [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。
 - [SaltFish001/wvp_pro_compose](https://github.com/SaltFish001/wvp_pro_compose) - 基于本人踩坑出来的WVP配置
 - [atellies/EpicGamesStoreIPA](https://github.com/atellies/EpicGamesStoreIPA) - Collection of IPAs from the Epic Games Store for sideloading on iOS devices outside of the EU
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
@@ -1303,7 +1310,7 @@
 - [c22dev/TrollBox](https://github.com/c22dev/TrollBox) - A TrollStore app that embeds many TrollStore tools
 - [community-network/gametools.network-website](https://github.com/community-network/gametools.network-website) - Game tools website powered by Community Network. Check your Battlefield stats, servers, platoons or portal experiences.
 - [MattMcFarland/battlefield-stats](https://github.com/MattMcFarland/battlefield-stats) - A node api for collection and analysis of battlefield 1 and battlefield 4 statistics.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -1321,7 +1328,7 @@
 - [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) - 爆破字典
 - [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [maliangnansheng/bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 【南生论坛】- 开源Java论坛（社区/问答/BBS/社交网络/博客），仿掘金风格，技术架构采用SpringBoot3 + Vue3，前后端分离，多端适配，界面优雅，功能全面，性能高效，企业级微服务开源项目。官方地址：https://bbs.nansin.top
+- [maliangnansheng/bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 【南生论坛】- 开源Java论坛（社区/问答/BBS/社交网络/博客），仿掘金风格，技术架构采用SpringBoot + Vue，前后端分离，多端适配，界面优雅，功能全面，性能高效，企业级微服务开源项目。官网：https://bbs.nansin.top
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
 - [Sunrisepeak/KHistory](https://github.com/Sunrisepeak/KHistory) - An elegant keyboard/gamepad key detection and visualization tool | 🔥一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具, 无需安装单可执行文件(约900kb大小)即点即用
@@ -1515,7 +1522,7 @@
 
 ## springboot 
 
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [fanchaoo/netease-cloud-music-community](https://github.com/fanchaoo/netease-cloud-music-community) - 参照网易云音乐云村做的一个小程序社区，后端技术栈为Java，SpringBoot，MySQL，Redis，前端技术栈为uni-app。欢迎吐槽。
@@ -1653,7 +1660,7 @@
 
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [yudaocode/yudao-ui-admin-vben](https://github.com/yudaocode/yudao-ui-admin-vben) - ruoyi-vue-pro-vben 芋道管理后台，基于 vben5.0 最新版本，最新的 vue3 vite6 ant-design-vue typescript 语法进行重构开发，支持 springboot3 springcloud 版本
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star 
 - [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
