@@ -130,7 +130,7 @@
 ## Dockerfile 
 
 - [SaltFish001/wvp_pro_compose](https://github.com/SaltFish001/wvp_pro_compose) - 基于本人踩坑出来的WVP配置
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
 ## Go 
 
@@ -407,7 +407,7 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [wujunwei928/parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 - [binhnguyennus/football-tracking](https://github.com/binhnguyennus/football-tracking) - Oblique-View into Top-Down View for Sports Analytics
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -429,6 +429,7 @@
 - [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
@@ -461,13 +462,14 @@
 
 ## Rust 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [Dominux/Pentaract](https://github.com/Dominux/Pentaract) - Unlimited file cloud storage based on using Telegram API
 - [ethangreen-dev/lovely-injector](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) - 一个简单的游戏存档管理器
@@ -504,7 +506,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
@@ -552,7 +554,6 @@
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
