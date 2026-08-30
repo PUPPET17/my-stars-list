@@ -91,10 +91,12 @@
 - [game-development](#game-development)
 - [gamedev](#gamedev)
 - [generative-ai](#generative-ai)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-config](#github-config)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [graphql](#graphql)
 - [gui](#gui)
@@ -150,6 +152,7 @@
 - [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [penetration-testing](#penetration-testing)
@@ -775,6 +778,10 @@
 - [x-glacier/GenerativeAgentsCN](https://github.com/x-glacier/GenerativeAgentsCN) - 本项目为Generative Agents项目的重构+深度汉化版本，旨在为中文用户提供一个利于维护的基础版本，以便后续实验或功能拓展。
 - [iusztinpaul/hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) - 🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 
+## gis 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
 ## git 
 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -798,6 +805,10 @@
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+
+## godot 
+
+- [hanmi255/SuperSoccer](https://github.com/hanmi255/SuperSoccer) - Godot试作——街机足球游戏 | Godot Prototype — Arcade Football
 
 ## golang 
 
@@ -1198,7 +1209,7 @@
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - ✨ Self-hosted open-source WebRTC cam-to-cam peer-to-peer video calling platform for immersive 1-to-1 real-time communication with end-to-end privacy. Each room is limited to two participants for maxim
+- [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - 📹 Open-source, self-hosted WebRTC 1-to-1 video calling for private real-time communication. Build secure browser-based consultations, coaching, support, telehealth, and other video call experiences wi
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -1221,13 +1232,18 @@
 
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
+## osint 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
 ## others 
 
+- [angree/openswos](https://github.com/angree/openswos) - Open-source recreation of Sensible World of Soccer 96/97 (Amiga + PC) -- Godot 4 + C#
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [serezhka/java-airplay](https://github.com/serezhka/java-airplay) - 
 - [spacehuhn/esp8266_beaconSpam](https://github.com/spacehuhn/esp8266_beaconSpam) - Creates up to a thousand WiFi access points with custom SSIDs.
 - [ZhiYi-R/moon-bridge](https://github.com/ZhiYi-R/moon-bridge) - Moon Bridge 是一个用 Go 编写的协议转换与模型路由代理。对外暴露 OpenAI Responses API（/v1/responses），对内支持 Anthropic Messages、Google Gemini（GenAI）、OpenAI Chat Completions 等多种上游协议。客户端指定不同模型别名时，自动将请求路由到对应上游 Provider 并在协议间自动转换。
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy) - the holly uncodexify instructions - letting GPT create uncodexified UI
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -1431,7 +1447,7 @@
 ## p2p 
 
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - ✨ Self-hosted open-source WebRTC cam-to-cam peer-to-peer video calling platform for immersive 1-to-1 real-time communication with end-to-end privacy. Each room is limited to two participants for maxim
+- [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - 📹 Open-source, self-hosted WebRTC 1-to-1 video calling for private real-time communication. Build secure browser-based consultations, coaching, support, telehealth, and other video call experiences wi
 
 ## penetration-testing 
 
@@ -1590,7 +1606,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - ✨ Self-hosted open-source WebRTC cam-to-cam peer-to-peer video calling platform for immersive 1-to-1 real-time communication with end-to-end privacy. Each room is limited to two participants for maxim
+- [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c) - 📹 Open-source, self-hosted WebRTC 1-to-1 video calling for private real-time communication. Build secure browser-based consultations, coaching, support, telehealth, and other video call experiences wi
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
@@ -1731,7 +1747,6 @@
 
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [yudaocode/yudao-ui-admin-vben](https://github.com/yudaocode/yudao-ui-admin-vben) - ruoyi-vue-pro-vben 芋道管理后台，基于 vben5.0 最新版本，最新的 vue3 vite6 ant-design-vue typescript 语法进行重构开发，支持 springboot3 springcloud 版本
