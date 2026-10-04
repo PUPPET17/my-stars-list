@@ -60,7 +60,6 @@
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Yeely0162/Chappie2_REB](https://github.com/Yeely0162/Chappie2_REB) - Rebuild_Chappie2_Update_code
 - [Forairaaaaa/Chappie-II](https://github.com/Forairaaaaa/Chappie-II) - 小手表开发板
 - [Forairaaaaa/Monica](https://github.com/Forairaaaaa/Monica) - DIY AMOLED 屏手表
@@ -77,6 +76,7 @@
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
@@ -391,6 +391,7 @@
 
 ## Python 
 
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [aws-samples/sample-ai-possibilities](https://github.com/aws-samples/sample-ai-possibilities) - 🚀 Experimental AI demos showcasing Amazon Bedrock, open-source LLMs & creative possibilities. AI Agents, RAG systems, streaming agents & more!
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
@@ -494,7 +495,7 @@
 - [ethangreen-dev/lovely-injector](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
@@ -510,6 +511,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
@@ -522,7 +524,6 @@
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [talkvalue/Buddi](https://github.com/talkvalue/Buddi) - A macOS notch companion for Claude Code — your buddy lives here now.
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [c22dev/TrollBox](https://github.com/c22dev/TrollBox) - A TrollStore app that embeds many TrollStore tools
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 
@@ -535,7 +536,7 @@
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
+- [Twigpine/openclaude](https://github.com/Twigpine/openclaude) - runs anywhere. uses anything
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) - Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
